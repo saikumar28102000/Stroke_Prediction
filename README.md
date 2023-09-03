@@ -37,7 +37,7 @@ To run app, run the following command
   
 ## Screenshots
 
-![App Screenshot]([https://raw.githubusercontent.com/SagarDhandare/Stroke-Prediction-Project/main/Images/screenshot.png](https://github.com/saikumar28102000/Stroke_Prediction/blob/main/Images/stroke.png))
+![App Screenshot](https://github.com/saikumar28102000/Stroke_Prediction/blob/main/Images/stroke.png)
 
   
 ## Deployment
